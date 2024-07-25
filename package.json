@@ -1,0 +1,13 @@
+{
+  "name": "贝壳网",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codejsdemo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "jsdom": "^24.1.1"
+  }
+}
